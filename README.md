@@ -1,3 +1,8 @@
+This is a lesson where we learnt how to correctly format our Readme's with the markdown language
+
+below are some examples we went over:
+
+
 # H1
 ## H2
 ### H3
